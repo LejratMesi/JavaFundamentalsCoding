@@ -1,3 +1,3 @@
 # JavaFundamentalsCoding
 
-In this repo you will find exercise about fundamentals JAva that I used to do with students.
+In this repo you will find exercise about fundamentals Java that I used to do with students.
