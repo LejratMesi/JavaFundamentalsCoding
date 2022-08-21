@@ -7,7 +7,7 @@ public class Exercise20 {
     public static void main(String [] args){
         Scanner input = new Scanner(System.in);
         Random randomGenerator = new Random();
-        int randomNumber = randomGenerator.nextInt(0,100);
+        int randomNumber = randomGenerator.nextInt(0,30) +1 ;
         System.out.println("Numri random eshte :" + randomNumber);
 
         //for(;;) eshte sintaksa e for-loops per infinite loop
