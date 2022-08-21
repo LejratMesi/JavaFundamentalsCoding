@@ -1,4 +1,4 @@
-package com.sda.thirdday;
+package com.sda.thirdday.secondexercise;
 
 import com.sda.thirdday.secondexercise.Autor;
 import com.sda.thirdday.secondexercise.Shkrimtari;
